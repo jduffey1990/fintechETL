@@ -1,11 +1,12 @@
-The Market Value Calculation has given us total market value of $16486124.78 at 05-01-2024 10:36:35
-The Industrials sector has given us weight of 6.05% at 05-01-2024 10:36:35
-The Consumer Discretionary sector has given us weight of 19.51% at 05-01-2024 10:36:35
-The Health Care sector has given us weight of 21.91% at 05-01-2024 10:36:35
-The Information Technology sector has given us weight of 24.91% at 05-01-2024 10:36:35
-The Financials sector has given us weight of 14.52% at 05-01-2024 10:36:35
-The Consumer Staples sector has given us weight of 6.77% at 05-01-2024 10:36:35
-The Real Estate sector has given us weight of 1.79% at 05-01-2024 10:36:35
-The Materials sector has given us weight of 2.70% at 05-01-2024 10:36:35
-The Energy sector has given us weight of 1.45% at 05-01-2024 10:36:35
-The CASH sector has given us weight of 0.39% at 05-01-2024 10:36:35
+
+The Market Value Calculation has given us total market value of $16486124.78 at 05-22-2024 15:06:41
+The Industrials sector has given us weight of 6.05% at 05-22-2024 15:06:41
+The Consumer Discretionary sector has given us weight of 19.51% at 05-22-2024 15:06:41
+The Health Care sector has given us weight of 21.91% at 05-22-2024 15:06:41
+The Information Technology sector has given us weight of 24.91% at 05-22-2024 15:06:41
+The Financials sector has given us weight of 14.52% at 05-22-2024 15:06:41
+The Consumer Staples sector has given us weight of 6.77% at 05-22-2024 15:06:41
+The Real Estate sector has given us weight of 1.79% at 05-22-2024 15:06:41
+The Materials sector has given us weight of 2.70% at 05-22-2024 15:06:41
+The Energy sector has given us weight of 1.45% at 05-22-2024 15:06:41
+The CASH sector has given us weight of 0.39% at 05-22-2024 15:06:41
