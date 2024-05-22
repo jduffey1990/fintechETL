@@ -1,0 +1,1159 @@
+88554D20|DDD|3D Systems Corporation|Information Technology|12.15
+28291410|EGHT|8x8  Inc.|Information Technology|13.15
+83186520|AOS|A. O. Smith Corporation|Industrials|53.43
+80819410|SHLM|A. Schulman  Inc.|Materials|29.15
+00036020|AAON|AAON  Inc.|Industrials|31.7
+00036110|AIR|AAR CORP.|Industrials|35.43
+00253530|AAN|Aaron's  Inc.|Consumer Discretionary|43.49
+00256710|ABAX|Abaxis  Inc.|Health Care|46.54
+00282410|ABT|Abbott Laboratories|Health Care|43.08
+00287Y10|ABBV|AbbVie  Inc.|Health Care|65.37
+00289620|ANF|Abercrombie & Fitch Co. Class A|Consumer Discretionary|9.29
+00365410|ABMD|ABIOMED  Inc.|Health Care|130.54
+00095710|ABM|ABM Industries Incorporated|Industrials|43.04
+00404A10|ACHC|Acadia Healthcare Company  Inc.|Health Care|47.66
+00444610|ACET|Aceto Corporation|Health Care|15.84
+00449810|ACIW|ACI Worldwide  Inc.|Information Technology|22.15
+00484M10|ACOR|Acorda Therapeutics  Inc.|Health Care|15
+00507V10|ATVI|Activision Blizzard  Inc.|Information Technology|61.78
+00508X20|ATU|Actuant Corporation Class A|Industrials|22.4
+00508Y10|AYI|Acuity Brands  Inc.|Industrials|169.45
+00512510|ACXM|Acxiom Corporation|Information Technology|26.15
+00738A10|ADTN|ADTRAN  Inc.|Information Technology|21.45
+00751Y10|AAP|Advance Auto Parts  Inc.|Consumer Discretionary|144.56
+00797310|AEIS|Advanced Energy Industries  Inc.|Information Technology|70.1
+00790310|AMD|Advanced Micro Devices  Inc.|Information Technology|11.2
+00773T10|ASIX|AdvanSix  Inc.|Materials|30.78
+00766T10|ACM|AECOM|Industrials|30.47
+00770F10|AEGN|Aegion Corporation|Industrials|20.41
+00780010|AJRD|Aerojet Rocketdyne Holdings  Inc.|Industrials|27.65
+00807310|AVAV|AeroVironment  Inc.|Industrials|37.4
+00817Y10|AET|Aetna Inc.|Health Care|139.06
+00108410|AGCO|AGCO Corporation|Industrials|62.88
+00847J10|AGYS|Agilysys  Inc.|Information Technology|10.11
+00849210|ADC|Agree Realty Corporation|Real Estate|45.24
+00154710|AKS|AK Steel Holding Corporation|Materials|5.2
+00971T10|AKAM|Akamai Technologies  Inc.|Information Technology|44.91
+00972810|AKRX|Akorn  Inc.|Health Care|32.61
+01131110|ALG|Alamo Group Inc.|Industrials|89.55
+01165910|ALK|Alaska Air Group  Inc.|Industrials|82.19
+01234810|AIN|Albany International Corp. Class A|Industrials|50.9
+01242310|AMRI|Albany Molecular Research  Inc.|Health Care|17.78
+01449110|ALEX|Alexander & Baldwin  Inc.|Real Estate|42.43
+01535110|ALXN|Alexion Pharmaceuticals  Inc.|Health Care|116.15
+01625510|ALGN|Align Technology  Inc.|Health Care|136.08
+01717510|Y|Alleghany Corporation|Financials|561.99
+01741R10|ATI|Allegheny Technologies Incorporated|Materials|18.54
+01748X10|ALGT|Allegiant Travel Company|Industrials|119.65
+G0177J10|AGN|Allergan plc|Health Care|220.33
+01858110|ADS|Alliance Data Systems Corporation|Information Technology|238.19
+01988P10|MDRX|Allscripts Healthcare Solutions  Inc.|Health Care|12.83
+02000210|ALL|Allstate Corporation|Financials|84.36
+02040910|AFAM|Almost Family  Inc.|Health Care|48.65
+02079K30|GOOGL|Alphabet Inc. Class A|Information Technology|942.17
+02079K10|GOOG|Alphabet Inc. Class C|Information Technology|906.66
+02209S10|MO|Altria Group  Inc.|Consumer Staples|70.55
+00163U10|AMAG|AMAG Pharmaceuticals  Inc.|Health Care|17.6
+02313510|AMZN|Amazon.com  Inc.|Consumer Discretionary|944.76
+00164V10|AMCX|AMC Networks Inc. Class A|Consumer Discretionary|51.74
+02343610|AMED|Amedisys  Inc.|Health Care|58.92
+02376R10|AAL|American Airlines Group  Inc.|Industrials|44.92
+02406110|AXL|American Axle & Manufacturing Holdings  Inc.|Consumer Discretionary|13.82
+02483510|ACC|American Campus Communities  Inc.|Real Estate|46.07
+02553E10|AEO|American Eagle Outfitters  Inc.|Consumer Discretionary|11.05
+02567620|AEL|American Equity Investment Life Holding Company|Financials|27.31
+02581610|AXP|American Express Company|Financials|76.37
+02593210|AFG|American Financial Group  Inc.|Financials|101.92
+02687478|AIG|American International Group  Inc.|Financials|61.56
+02913V10|APEI|American Public Education  Inc.|Consumer Discretionary|18
+03037110|AVD|American Vanguard Corporation|Materials|20.1
+03050610|AMWD|American Woodmark Corporation|Industrials|93.55
+03076C10|AMP|Ameriprise Financial  Inc.|Financials|123.34
+03076K10|ABCB|Ameris Bancorp|Financials|43.45
+03071H10|AMSF|AMERISAFE  Inc.|Financials|54.9
+03073E10|ABC|AmerisourceBergen Corporation|Health Care|86.28
+03116210|AMGN|Amgen Inc.|Health Care|157.06
+00174410|AMN|AMN Healthcare Services  Inc.|Health Care|39.2
+03209R10|AMPH|Amphastar Pharmaceuticals Inc|Health Care|15.07
+03265410|ADI|Analog Devices  Inc.|Information Technology|78.42
+03265720|ALOG|Analogic Corporation|Health Care|69.7
+03416410|ANDE|Andersons  Inc.|Consumer Staples|31.25
+03475V10|ANGO|AngioDynamics  Inc.|Health Care|17.01
+00182C10|ANIP|ANI Pharmaceuticals  Inc.|Health Care|48.02
+03525510|ANIK|Anika Therapeutics  Inc.|Health Care|46.76
+03529010|AXE|Anixter International Inc.|Information Technology|70.9
+03675210|ANTM|Anthem  Inc.|Health Care|176.12
+03748R10|AIV|Apartment Investment and Management Company Class A|Real Estate|42.87
+03759810|APOG|Apogee Enterprises  Inc.|Industrials|46.95
+03762U10|ARI|Apollo Commercial Real Estate Finance  Inc.|Financials|17.89
+03783310|AAPL|Apple Inc.|Information Technology|150.25
+03820C10|AIT|Applied Industrial Technologies  Inc.|Industrials|54.15
+03822210|AMAT|Applied Materials  Inc.|Information Technology|42.76
+03823U10|AAOI|Applied Optoelectronics  Inc.|Information Technology|60.6
+03833610|ATR|Aptargroup  Inc.|Materials|81.49
+03965L10|ARNC|Arconic  Inc.|Industrials|26.84
+G0551A10|ARRS|ARRIS International Plc|Information Technology|26.64
+04343610|ABG|Asbury Automotive Group  Inc.|Consumer Discretionary|50.85
+04351G10|ASNA|Ascena Retail Group  Inc.|Consumer Discretionary|2.82
+G0538410|AHL|Aspen Insurance Holdings Limited|Financials|46.75
+04548710|ASB|Associated Banc-Corp|Financials|21.7
+04621X10|AIZ|Assurant  Inc.|Financials|100.16
+04622410|ASTE|Astec Industries  Inc.|Industrials|46.59
+04626510|AF|Astoria Financial Corporation|Financials|19.14
+00215F10|ATNI|ATN International  Inc.|Telecommunication Services|61.89
+05009510|ATW|Atwood Oceanics  Inc.|Energy|8.17
+05276910|ADSK|Autodesk  Inc.|Information Technology|93.97
+05329W10|AN|AutoNation  Inc.|Consumer Discretionary|42.45
+05333210|AZO|AutoZone  Inc.|Consumer Discretionary|517.51
+05348410|AVB|AvalonBay Communities  Inc.|Real Estate|190.99
+05430310|AVP|Avon Products  Inc.|Consumer Staples|2.64
+05464C10|AAXN|Axon Enterprise Inc|Industrials|22.08
+00247410|AZZ|AZZ Inc.|Industrials|47.3
+05508R10|BGS|B&G Foods  Inc.|Consumer Staples|31.45
+05652510|BMI|Badger Meter  Inc.|Information Technology|44.25
+05766520|BCPC|Balchem Corporation|Materials|73.16
+05990K10|BANC|Banc of California  Inc.|Financials|18.55
+05969210|BXS|BancorpSouth  Inc.|Financials|28.55
+06375010|BKMU|Bank Mutual Corporation|Financials|9.25
+06050510|BAC|Bank of America Corporation|Financials|22.57
+06254010|BOH|Bank of Hawaii Corporation|Financials|78.91
+06405810|BK|Bank of New York Mellon Corporation|Financials|46.29
+06390410|OZRK|Bank of the Ozarks  Inc.|Financials|41.07
+06652V20|BANR|Banner Corporation|Financials|54.88
+06777410|BKS|Barnes & Noble  Inc.|Consumer Discretionary|7.35
+06777U10|BNED|Barnes & Noble Education  Inc.|Consumer Discretionary|6.83
+06780610|B|Barnes Group Inc.|Industrials|60.13
+05493710|BBT|BB&T Corporation|Financials|42.01
+07588710|BDX|Becton  Dickinson and Company|Health Care|199.17
+07589610|BBBY|Bed Bath & Beyond Inc.|Consumer Discretionary|35.5
+07734730|BELFB|Bel Fuse Inc. Class B|Information Technology|25.65
+07745410|BDC|Belden Inc.|Information Technology|71.3
+08143710|BMS|Bemis Company  Inc.|Materials|41.68
+08160H10|BHE|Benchmark Electronics  Inc.|Information Technology|31.3
+08651610|BBY|Best Buy Co.  Inc.|Consumer Discretionary|50.61
+08915P10|BGFV|Big 5 Sporting Goods Corporation|Consumer Discretionary|13.35
+08930210|BIG|Big Lots  Inc.|Consumer Discretionary|46.57
+08986R10|BH|Biglari Holdings Inc.|Consumer Discretionary|385.07
+06846N10|BBG|Bill Barrett Corporation|Energy|2.85
+09062X10|BIIB|Biogen Inc.|Health Care|283.15
+09057220|BIO|Bio-Rad Laboratories  Inc. Class A|Health Care|219.54
+09073M10|TECH|Bio-Techne Corporation|Health Care|109.59
+09067210|BEAT|BioTelemetry  Inc.|Health Care|35.85
+09075E10|BIVV|Bioverativ  Inc.|Health Care|51.9
+09180C10|BJRI|BJ's Restaurants  Inc.|Consumer Discretionary|31.85
+09182610|BBOX|Black Box Corporation|Information Technology|3.3
+09227Q10|BLKB|Blackbaud  Inc.|Information Technology|84.12
+09522910|BCOR|Blucora  Inc.|Information Technology|22.65
+09676110|BOBE|Bob Evans Farms  Inc.|Consumer Discretionary|64.95
+05566U10|BOFI|BofI Holding  Inc|Financials|25.97
+09739D10|BCC|Boise Cascade Co.|Materials|28.3
+10055710|SAM|Boston Beer Company  Inc. Class A|Consumer Staples|145.3
+10111910|BPFH|Boston Private Financial Holdings  Inc.|Financials|14.35
+10113710|BSX|Boston Scientific Corporation|Health Care|25.94
+10138810|EPAY|Bottomline Technologies (de)  Inc.|Information Technology|28.97
+10330410|BYD|Boyd Gaming Corporation|Consumer Discretionary|26.07
+10467410|BRC|Brady Corporation Class A|Industrials|33.2
+10904310|BGG|Briggs & Stratton Corporation|Industrials|20.47
+10964110|EAT|Brinker International  Inc.|Consumer Discretionary|41.39
+10969610|BCO|Brink's Company|Industrials|75.15
+11012210|BMY|Bristol-Myers Squibb Company|Health Care|54.41
+11039410|BRS|Bristow Group Inc.|Energy|7.62
+Y0982710|AVGO|Broadcom Limited|Information Technology|231.18
+11162130|BRCD|Brocade Communications Systems  Inc.|Information Technology|12.19
+11373M10|BRKL|Brookline Bancorp  Inc.|Financials|13.95
+11434010|BRKS|Brooks Automation  Inc.|Information Technology|24.54
+11523610|BRO|Brown & Brown  Inc.|Financials|43.82
+11704310|BC|Brunswick Corporation|Consumer Discretionary|51.35
+11844010|BKE|Buckle  Inc.|Consumer Discretionary|13.8
+11984810|BWLD|Buffalo Wild Wings  Inc.|Consumer Discretionary|107.95
+06738310|BCR|C. R. Bard  Inc.|Health Care|304.92
+12680430|CAB|Cabela's Incorporated|Consumer Discretionary|54.37
+12685J10|CABO|Cable One  Inc.|Consumer Discretionary|742.5
+12709P10|CCMP|Cabot Microelectronics Corporation|Information Technology|74.01
+12709710|COG|Cabot Oil & Gas Corporation|Energy|23.22
+12719030|CACI|CACI International Inc Class A|Information Technology|123.85
+12738710|CDNS|Cadence Design Systems  Inc.|Information Technology|32.39
+12812610|CAMP|CalAmp Corp.|Information Technology|17.84
+12819510|CAA|CalAtlantic Group  Inc.|Consumer Discretionary|35.95
+12824610|CVGW|Calavo Growers  Inc.|Consumer Staples|65
+12950010|CAL|Caleres  Inc.|Consumer Discretionary|22.72
+12960310|CCC|Calgon Carbon Corporation|Materials|13.65
+13119310|ELY|Callaway Golf Company|Consumer Discretionary|13.07
+12803020|CALM|Cal-Maine Foods  Inc.|Consumer Staples|34.45
+13201110|CBM|Cambrex Corporation|Health Care|51.45
+13442910|CPB|Campbell Soup Company|Consumer Staples|57.41
+13809810|CMD|Cantel Medical Corp.|Health Care|75.93
+13959410|CPLA|Capella Education Company|Consumer Discretionary|67.15
+14040H10|COF|Capital One Financial Corporation|Financials|78.47
+14067E50|CMO|Capstead Mortgage Corporation|Financials|10.36
+14078110|CRR|CARBO Ceramics Inc.|Energy|6.13
+14149Y10|CAH|Cardinal Health  Inc.|Health Care|71.6
+G1991C10|CATM|Cardtronics plc Class A|Information Technology|25.14
+14166510|CECO|Career Education Corporation|Consumer Discretionary|8.7
+14174T10|CTRE|CareTrust REIT Inc|Real Estate|19.36
+14313010|KMX|CarMax  Inc.|Consumer Discretionary|60.02
+14365830|CCL|Carnival Corporation|Consumer Discretionary|59.75
+14428510|CRS|Carpenter Technology Corporation|Materials|35.64
+14622910|CRI|Carter's  Inc.|Consumer Discretionary|84.34
+14752810|CASY|Casey's General Stores  Inc.|Consumer Staples|114.98
+*$$$|*$$$|CASH|CASH|1
+14880610|CTLT|Catalent Inc|Health Care|33.52
+14915010|CATY|Cathay General Bancorp|Financials|34.92
+14920510|CATO|Cato Corporation Class A|Consumer Discretionary|14.19
+14956810|CVCO|Cavco Industries  Inc.|Consumer Discretionary|127.55
+12483010|CBL|CBL & Associates Properties  Inc.|Real Estate|8.09
+12503M10|CBOE|CBOE Holdings  Inc.|Financials|97.09
+12485720|CBS|CBS Corporation Class B|Consumer Discretionary|60.38
+12507110|CDI|CDI Corp.|Industrials|8.2
+12508E10|CDK|CDK Global Inc|Information Technology|60.99
+15102010|CELG|Celgene Corporation|Health Care|117.1
+15135B10|CNC|Centene Corporation|Health Care|75.42
+15352710|CENT|Central Garden & Pet Company|Consumer Staples|34.22
+15352720|CENTA|Central Garden & Pet Company Class A|Consumer Staples|33.18
+15476040|CPF|Central Pacific Financial Corp.|Financials|28.98
+15643110|CENX|Century Aluminum Company|Materials|16.16
+15670010|CTL|CenturyLink  Inc.|Telecommunication Services|24.55
+15678210|CERN|Cerner Corporation|Health Care|63.66
+15721010|CEVA|CEVA  Inc.|Information Technology|40.75
+12526910|CF|CF Industries Holdings  Inc.|Materials|27.46
+15986410|CRL|Charles River Laboratories International  Inc.|Health Care|88.48
+80851310|SCHW|Charles Schwab Corporation|Financials|38.12
+16115Q30|GTLS|Chart Industries  Inc.|Industrials|32.72
+16119P10|CHTR|Charter Communications  Inc. Class A|Consumer Discretionary|313.11
+16307210|CAKE|Cheesecake Factory Incorporated|Consumer Discretionary|58.26
+16359R10|CHE|Chemed Corporation|Health Care|187.96
+16373110|CHFC|Chemical Financial Corporation|Financials|45.02
+16385110|CC|Chemours Co.|Materials|46.36
+16516710|CHK|Chesapeake Energy Corporation|Energy|5.49
+16524010|CHSP|Chesapeake Lodging Trust|Real Estate|24.89
+16861510|CHS|Chico's FAS  Inc.|Consumer Discretionary|7.61
+16890510|PLCE|Children's Place  Inc.|Consumer Discretionary|111.6
+16965610|CMG|Chipotle Mexican Grill  Inc.|Consumer Discretionary|479.83
+17134010|CHD|Church & Dwight Co.  Inc.|Consumer Staples|50.4
+17148410|CHDN|Churchill Downs Incorporated|Consumer Discretionary|164.2
+17160410|CHUY|Chuy's Holdings  Inc.|Consumer Discretionary|20.15
+17177930|CIEN|Ciena Corporation|Information Technology|23.14
+12550910|CI|Cigna Corporation|Health Care|158.41
+17187150|CBB|Cincinnati Bell Inc.|Telecommunication Services|20.55
+17243V10|CNK|Cinemark Holdings  Inc.|Consumer Discretionary|41.01
+17290810|CTAS|Cintas Corporation|Industrials|120.17
+17273K10|CIR|CIRCOR International  Inc.|Industrials|47.68
+17275510|CRUS|Cirrus Logic  Inc.|Information Technology|62.95
+17461010|CFG|Citizens Financial Group  Inc.|Financials|34.57
+17737610|CTXS|Citrix Systems  Inc.|Information Technology|75.09
+17783510|CHCO|City Holding Company|Financials|60.89
+18449610|CLH|Clean Harbors  Inc.|Industrials|49.98
+18538R10|CLW|Clearwater Paper Corporation|Materials|44.95
+18905410|CLX|Clorox Company|Consumer Staples|131.23
+18911Q10|CLD|Cloud Peak Energy Inc.|Energy|2.87
+12572Q10|CME|CME Group Inc. Class A|Financials|115.12
+12621E10|CNO|CNO Financial Group  Inc.|Financials|22.04
+18975410|COH|Coach  Inc.|Consumer Discretionary|44.75
+19109810|COKE|Coca-Cola Bottling Co. Consolidated|Consumer Staples|205.18
+19239V30|CCOI|Cogent Communications Holdings Inc|Telecommunication Services|42.85
+19242210|CGNX|Cognex Corporation|Information Technology|89.51
+19244610|CTSH|Cognizant Technology Solutions Corporation Class A|Information Technology|64.5
+19247910|COHR|Coherent  Inc.|Information Technology|217.38
+19257610|COHU|Cohu  Inc.|Information Technology|17.37
+19723610|COLB|Columbia Banking System  Inc.|Financials|36.55
+20030N10|CMCSA|Comcast Corporation Class A|Consumer Discretionary|38.1
+20034010|CMA|Comerica Incorporated|Financials|68.77
+19990810|FIX|Comfort Systems USA  Inc.|Industrials|32.8
+20052510|CBSH|Commerce Bancshares  Inc.|Financials|54.09
+20172310|CMC|Commercial Metals Company|Materials|17.08
+20360710|CBU|Community Bank System  Inc.|Financials|51.27
+20366810|CYH|Community Health Systems  Inc.|Health Care|9.62
+20416610|CVLT|CommVault Systems  Inc.|Information Technology|58.1
+20451N10|CMP|Compass Minerals International  Inc.|Materials|64.95
+20530610|CPSI|Computer Programs and Systems  Inc.|Health Care|29.1
+20582620|CMTL|Comtech Telecommunications Corp.|Information Technology|18.51
+20588710|CAG|Conagra Brands  Inc.|Consumer Staples|37.62
+20741010|CNMD|CONMED Corporation|Health Care|48.54
+20903410|CNSL|Consolidated Communications Holdings  Inc.|Telecommunication Services|18.38
+21036P10|STZ|Constellation Brands  Inc. Class A|Consumer Staples|198.12
+21075N20|MCF|Contango Oil & Gas Company|Energy|4.53
+21248510|CVG|Convergys Corporation|Information Technology|23.01
+21664840|COO|Cooper Companies  Inc.|Health Care|209.41
+21683110|CTB|Cooper Tire & Rubber Company|Consumer Discretionary|33.7
+21676P10|CPS|Cooper-Standard Holdings Inc.|Consumer Discretionary|98.93
+21720410|CPRT|Copart  Inc.|Industrials|29.18
+21871N10|CXW|CoreCivic  Inc.|Real Estate|24.4
+21868110|CORE|Core-Mark Holding Company  Inc.|Consumer Discretionary|26.5
+21870Q10|COR|CoreSite Realty Corporation|Real Estate|111.82
+22100610|CRVL|CorVel Corporation|Health Care|51.25
+22160K10|COST|Costco Wholesale Corporation|Consumer Staples|169.15
+22207020|COTY|Coty Inc. Class A|Consumer Staples|19.55
+22410J10|CBRL|Cracker Barrel Old Country Store  Inc.|Consumer Discretionary|150.48
+22522330|CRAY|Cray Inc.|Information Technology|17.95
+22544710|CREE|Cree  Inc.|Information Technology|22.57
+22704610|CROX|Crocs  Inc.|Consumer Discretionary|8.65
+22748310|CCRN|Cross Country Healthcare  Inc.|Health Care|12.24
+22890310|CRY|CryoLife  Inc.|Health Care|19.2
+12634910|CSGS|CSG Systems International  Inc.|Information Technology|38.02
+12650T10|CSRA|CSRA  Inc.|Information Technology|31.79
+12646R10|CST|CST Brands  Inc.|Consumer Discretionary|48.3
+12650110|CTS|CTS Corporation|Information Technology|21.7
+22966910|CUB|Cubic Corporation|Industrials|41.95
+22989910|CFR|Cullen/Frost Bankers  Inc.|Financials|88.42
+23102110|CMI|Cummins Inc.|Industrials|153.31
+23156110|CW|Curtiss-Wright Corporation|Industrials|94.64
+23204G10|CUBI|Customers Bancorp  Inc.|Financials|27.84
+12660010|CVBF|CVB Financial Corp.|Financials|20.35
+12665010|CVS|CVS Health Corporation|Consumer Staples|76.33
+23280610|CY|Cypress Semiconductor Corporation|Information Technology|12.94
+23282W60|CYTK|Cytokinetics  Incorporated|Health Care|12.55
+23426410|DAKT|Daktronics  Inc.|Information Technology|9.34
+23719410|DRI|Darden Restaurants  Inc.|Consumer Discretionary|85.53
+23726610|DAR|Darling Ingredients Inc.|Consumer Staples|15.82
+23833710|PLAY|Dave & Buster's Entertainment  Inc.|Consumer Discretionary|60.24
+23918K10|DVA|DaVita Inc.|Health Care|63.95
+24237020|DF|Dean Foods Company|Consumer Staples|11.56
+24353710|DECK|Deckers Outdoor Corporation|Consumer Discretionary|58.23
+24419910|DE|Deere & Company|Industrials|113.23
+24736170|DAL|Delta Air Lines  Inc.|Industrials|47.74
+24785010|DEL|Deltic Timber Corporation|Materials|71.14
+24791620|DNR|Denbury Resources Inc.|Energy|1.05
+24906P10|XRAY|DENTSPLY SIRONA  Inc.|Health Care|61.35
+24990810|DEPO|Depomed  Inc.|Health Care|6.21
+23331S10|DHX|DHI Group  Inc.|Information Technology|1.95
+25271C10|DO|Diamond Offshore Drilling  Inc.|Energy|10.34
+25278430|DRH|DiamondRock Hospitality Company|Real Estate|10.75
+25339310|DKS|Dick's Sporting Goods  Inc.|Consumer Discretionary|41.75
+25365110|DBD|Diebold Nixdorf Incorporated|Information Technology|25.8
+25379810|DGII|Digi International Inc.|Information Technology|8.85
+25406710|DDS|Dillard's  Inc. Class A|Consumer Discretionary|55.51
+25392210|DCOM|Dime Community Bancshares  Inc.|Financials|19.8
+25442310|DIN|DineEquity  Inc.|Consumer Discretionary|49.2
+25454310|DIOD|Diodes Incorporated|Information Technology|26.38
+25456K10|DPLO|Diplomat Pharmacy  Inc.|Health Care|17.61
+25470910|DFS|Discover Financial Services|Financials|59.27
+25470F10|DISCA|Discovery Communications  Inc. Class A|Consumer Discretionary|22.34
+25470F30|DISCK|Discovery Communications  Inc. Class C|Consumer Discretionary|21.09
+25470M10|DISH|DISH Network Corporation Class A|Consumer Discretionary|56.65
+25667710|DG|Dollar General Corporation|Consumer Discretionary|70.67
+25674610|DLTR|Dollar Tree  Inc.|Consumer Discretionary|78.08
+25754A20|DPZ|Domino's Pizza  Inc.|Consumer Discretionary|191.46
+25755920|UFS|Domtar Corporation|Materials|37.36
+25765110|DCI|Donaldson Company  Inc.|Industrials|46.63
+25787G10|DFIN|Donnelley Financial Solutions  Inc.|Financials|20.27
+25827810|DORM|Dorman Products  Inc.|Consumer Discretionary|66.29
+26138E10|DPS|Dr Pepper Snapple Group  Inc.|Consumer Staples|90.32
+26203710|DRQ|Dril-Quip  Inc.|Energy|36.75
+23332B10|DSPG|DSP Group  Inc.|Information Technology|11.8
+23332610|DST|DST Systems  Inc.|Information Technology|119.89
+23334L10|DSW|DSW Inc. Class A|Consumer Discretionary|15.69
+26483E10|DNB|Dun & Bradstreet Corporation|Industrials|109.53
+26550410|DNKN|Dunkin' Brands Group  Inc.|Consumer Discretionary|52.5
+23355L10|DXC|DXC Technology Co.|Information Technology|78.78
+23337740|DXPE|DXP Enterprises  Inc.|Industrials|25.35
+26747510|DY|Dycom Industries  Inc.|Industrials|76.1
+26924640|ETFC|E*TRADE Financial Corporation|Financials|33.4
+26353410|DD|E. I. du Pont de Nemours and Company|Materials|76.56
+81105440|SSP|E. W. Scripps Company Class A|Consumer Discretionary|18.01
+26969P10|EXP|Eagle Materials Inc.|Materials|87.85
+26979610|EGRX|Eagle Pharmaceuticals  Inc.|Health Care|54
+27579R10|EWBC|East West Bancorp  Inc.|Financials|53.53
+27864210|EBAY|eBay Inc.|Information Technology|33.58
+27871520|EBIX|Ebix  Inc.|Information Technology|57.55
+28035Q10|EPC|Edgewell Personal Care Co.|Consumer Staples|75
+28140H20|EDR|Education Realty Trust  Inc.|Real Estate|38.33
+28176E10|EW|Edwards Lifesciences Corporation|Health Care|111.84
+28238P10|EHTH|eHealth  Inc.|Financials|17.81
+26860310|LOCO|El Pollo Loco Holdings Inc|Consumer Discretionary|11.45
+28522910|ESIO|Electro Scientific Industries  Inc.|Information Technology|10.76
+28551210|EA|Electronic Arts Inc.|Information Technology|116.84
+53245710|LLY|Eli Lilly and Company|Health Care|78.14
+29084Q10|EME|EMCOR Group  Inc.|Industrials|62.68
+29089Q10|EBS|Emergent BioSolutions Inc.|Health Care|34.89
+29221810|EIG|Employers Holdings  Inc.|Financials|39.65
+29251M10|ENTA|Enanta Pharmaceuticals  Inc.|Health Care|37.91
+29255410|ECPG|Encore Capital Group  Inc.|Financials|38.85
+29256210|WIRE|Encore Wire Corporation|Industrials|37.7
+G3040110|ENDP|Endo International Plc|Health Care|12.52
+29272W10|ENR|Energizer Holdings  Inc.|Consumer Staples|41.24
+29275Y10|ENS|EnerSys|Industrials|61.45
+29286C10|EGL|Engility Holdings  Inc.|Industrials|29.44
+29357K10|ENVA|Enova International Inc|Financials|12.05
+29355X10|NPO|EnPro Industries  Inc.|Industrials|69.13
+G3157S10|ESV|Ensco plc|Energy|4.19
+29358P10|ENSG|Ensign Group  Inc.|Health Care|19.63
+29414D10|EVHC|Envision Healthcare Corp.|Health Care|55.69
+29426810|PLUS|ePlus inc.|Information Technology|81.65
+26884L10|EQT|EQT Corporation|Energy|55.65
+29444U70|EQIX|Equinix  Inc.|Real Estate|450.29
+29476L10|EQR|Equity Residential|Real Estate|64.34
+26885G10|ERA|Era Group  Inc.|Energy|10.17
+29631510|ESE|ESCO Technologies Inc.|Industrials|53.75
+29668910|ESND|Essendant Inc.|Industrials|11.31
+29717810|ESS|Essex Property Trust  Inc.|Real Estate|253.74
+29742510|ESL|Esterline Technologies Corporation|Industrials|91.65
+29760210|ETH|Ethan Allen Interiors Inc.|Consumer Discretionary|29.45
+G3223R10|RE|Everest Re Group  Ltd.|Financials|241.65
+30208110|EXLS|ExlService Holdings  Inc.|Information Technology|55.45
+30212P30|EXPE|Expedia  Inc.|Consumer Discretionary|145.03
+30214U10|EXPO|Exponent  Inc.|Industrials|64.4
+30219E10|EXPR|Express  Inc.|Consumer Discretionary|7.67
+30219G10|ESRX|Express Scripts Holding Company|Health Care|59.73
+30227H10|EXTN|Exterran Corp.|Energy|23.88
+30225T10|EXR|Extra Space Storage Inc.|Real Estate|75.27
+30230110|EZPW|EZCORP  Inc. Class A|Financials|8.8
+30252010|FNB|F.N.B. Corporation|Financials|12.82
+31561610|FFIV|F5 Networks  Inc.|Information Technology|127.87
+G3323L10|FN|Fabrinet|Information Technology|39.82
+30303M10|FB|Facebook  Inc. Class A|Information Technology|144.85
+31164210|FARO|FARO Technologies  Inc.|Information Technology|32.65
+31190010|FAST|Fastenal Company|Industrials|39.97
+31385510|FSS|Federal Signal Corporation|Industrials|16.14
+31421110|FII|Federated Investors  Inc. Class B|Financials|26.73
+31620M10|FIS|Fidelity National Information Services  Inc.|Information Technology|82.85
+31639410|LION|Fidelity Southern Corporation|Financials|21.17
+31660B10|FRGI|Fiesta Restaurant Group  Inc.|Consumer Discretionary|17.85
+31677310|FITB|Fifth Third Bancorp|Financials|23.78
+31748510|FNGN|Financial Engines  Inc.|Financials|31.7
+31792310|FINL|Finish Line  Inc. Class A|Consumer Discretionary|9.89
+31847R10|FAF|First American Financial Corporation|Financials|48.3
+31867270|FBP|First Bancorp|Financials|5.46
+31982910|FCF|First Commonwealth Financial Corporation|Financials|12.51
+32020910|FFBC|First Financial Bancorp.|Financials|23.95
+32020R10|FFIN|First Financial Bankshares  Inc.|Financials|39.75
+32051710|FHN|First Horizon National Corporation|Financials|17.24
+32086710|FMBI|First Midwest Bancorp  Inc.|Financials|20.83
+33643310|FSLR|First Solar  Inc.|Information Technology|45.96
+33767D10|FCFS|FirstCash  Inc.|Financials|59.2
+33829M10|FIVE|Five Below  Inc.|Consumer Discretionary|51.78
+30244510|FLIR|FLIR Systems  Inc.|Information Technology|37.3
+34338910|FTK|Flotek Industries  Inc.|Materials|5.6
+34349810|FLO|Flowers Foods  Inc.|Consumer Staples|17.92
+34484910|FL|Foot Locker  Inc.|Consumer Discretionary|70.86
+34537086|F|Ford Motor Company|Consumer Discretionary|10.57
+34623310|FOR|Forestar Group Inc.|Real Estate|17.05
+34656310|FORR|Forrester Research  Inc.|Information Technology|37.75
+34959E10|FTNT|Fortinet  Inc.|Information Technology|36.93
+34959J10|FTV|Fortive Corp.|Industrials|61.2
+34964C10|FBHS|Fortune Brands Home & Security  Inc.|Industrials|62.35
+34988V10|FOSL|Fossil Group  Inc.|Consumer Discretionary|7.18
+35086T10|FCPT|Four Corners Property Trust  Inc.|Real Estate|25.3
+35138V10|FOXF|Fox Factory Holding Corp.|Consumer Discretionary|37.9
+35179310|FRAN|Francesca's Holdings Corporation|Consumer Discretionary|13.96
+35351410|FELE|Franklin Electric Co.  Inc.|Industrials|38.6
+35610810|FRED|Fred's  Inc. Class A|Consumer Discretionary|6
+30281V10|FTD|FTD Companies  Inc.|Consumer Discretionary|12.78
+30294110|FCN|FTI Consulting  Inc.|Industrials|32.45
+36027110|FULT|Fulton Financial Corporation|Financials|17.2
+36116M10|FF|FutureFuel Corp.|Materials|13.08
+36467W10|GME|GameStop Corp. Class A|Consumer Discretionary|20.98
+36473H10|GCI|Gannett Co.  Inc.|Consumer Discretionary|8.15
+36476010|GPS|Gap  Inc.|Consumer Discretionary|23.55
+H2906T10|GRMN|Garmin Ltd.|Consumer Discretionary|51.1
+36665110|IT|Gartner  Inc.|Information Technology|118.75
+36930010|BGC|General Cable Corporation|Industrials|16.4
+36938510|GNCMA|General Communication  Inc. Class A|Telecommunication Services|35.1
+37045V10|GM|General Motors Company|Consumer Discretionary|32.42
+37153210|GCO|Genesco Inc.|Consumer Discretionary|22.7
+37190110|GNTX|Gentex Corporation|Consumer Discretionary|18.65
+37253A10|THRM|Gentherm Incorporated|Consumer Discretionary|29.9
+37246010|GPC|Genuine Parts Company|Consumer Discretionary|82.67
+37247D10|GNW|Genworth Financial  Inc. Class A|Financials|3.35
+36162J10|GEO|GEO Group Inc|Real Estate|25.29
+37364X10|GEOS|Geospace Technologies Corporation|Energy|14.87
+36174X10|GGP|GGP  Inc.|Real Estate|20.78
+37468910|ROCK|Gibraltar Industries  Inc.|Industrials|26.85
+37518B10|GIMO|Gigamon Inc.|Information Technology|39.35
+36237H10|GIII|G-III Apparel Group  Ltd.|Consumer Discretionary|23.95
+37555810|GILD|Gilead Sciences  Inc.|Health Care|64.51
+37637Q10|GBCI|Glacier Bancorp  Inc.|Financials|32.86
+37940X10|GPN|Global Payments Inc.|Information Technology|94.57
+37957720|GMED|Globus Medical  Inc. Class A|Health Care|29.65
+38141G10|GS|Goldman Sachs Group  Inc.|Financials|220.79
+38255010|GT|Goodyear Tire & Rubber Company|Consumer Discretionary|32.26
+38410910|GGG|Graco Inc.|Industrials|112.97
+38463710|GHC|Graham Holdings Co.|Consumer Discretionary|595.35
+38732810|GVA|Granite Construction Incorporated|Industrials|48.69
+39141610|GWB|Great Western Bancorp  Inc.|Financials|35.95
+39304D10|GDOT|Green Dot Corporation Class A|Financials|46.58
+39322210|GPRE|Green Plains Inc.|Energy|16.9
+39365710|GBX|Greenbrier Companies  Inc.|Industrials|43.65
+39525910|GHL|Greenhill & Co.  Inc.|Financials|15.3
+39762410|GEF|Greif Class A|Materials|55.68
+39843310|GFF|Griffon Corporation|Industrials|18.4
+39890510|GPI|Group 1 Automotive  Inc.|Consumer Discretionary|54.94
+40161710|GES|Guess?  Inc.|Consumer Discretionary|12.22
+40230710|GIFI|Gulf Island Fabrication  Inc.|Energy|9.3
+40263530|GPOR|Gulfport Energy Corporation|Energy|11.85
+09367110|HRB|H&R Block  Inc.|Consumer Discretionary|25.08
+40502410|HAE|Haemonetics Corporation|Health Care|41.42
+40521710|HAIN|Hain Celestial Group  Inc.|Consumer Staples|36.35
+40650V10|HYH|Halyard Health Inc|Health Care|35.52
+41012010|HBHC|Hancock Holding Company|Financials|44.05
+41034510|HBI|Hanesbrands Inc.|Consumer Discretionary|23.3
+41049520|HAFC|Hanmi Financial Corporation|Financials|26.55
+41086710|THG|Hanover Insurance Group  Inc.|Financials|98.35
+41282210|HOG|Harley-Davidson  Inc.|Consumer Discretionary|52.99
+41316010|HLIT|Harmonic Inc.|Information Technology|3.3
+41387510|HRS|Harris Corporation|Information Technology|107.18
+41586410|HSC|Harsco Corporation|Industrials|15.8
+41651510|HIG|Hartford Financial Services Group  Inc.|Financials|48.9
+41805610|HAS|Hasbro  Inc.|Consumer Discretionary|94.84
+41959610|HVT|Haverty Furniture Companies  Inc.|Consumer Discretionary|23.6
+41987910|HA|Hawaiian Holdings  Inc.|Industrials|42.95
+42026110|HWKN|Hawkins  Inc.|Materials|36.65
+42087720|HAYN|Haynes International  Inc.|Materials|29.86
+40412C10|HCA|HCA Healthcare Inc|Health Care|81.57
+40416E10|HCI|HCI Group  Inc.|Financials|39.65
+40414L10|HCP|HCP  Inc.|Real Estate|31.36
+42190610|HCSG|Healthcare Services Group  Inc.|Industrials|51.02
+42226A10|HQY|HealthEquity Inc|Health Care|44.3
+42192430|HLS|HealthSouth Corporation|Health Care|43.96
+42222N10|HSTM|HealthStream  Inc.|Health Care|22.76
+42281910|HSII|Heidrick & Struggles International  Inc.|Industrials|18.25
+G4388N10|HELE|Helen of Troy Limited|Consumer Discretionary|92.3
+42330P10|HLX|Helix Energy Solutions Group  Inc.|Energy|5.93
+80640710|HSIC|Henry Schein  Inc.|Health Care|174.56
+60054410|MLHR|Herman Miller  Inc.|Industrials|32
+42782550|HT|Hersha Hospitality Trust Class A|Real Estate|18.13
+42786610|HSY|Hershey Company|Consumer Staples|108.77
+42805E30|HSKA|Heska Corporation|Health Care|99.39
+42824C10|HPE|Hewlett Packard Enterprise Co.|Information Technology|17.31
+40418F10|HF|HFF  Inc. Class A|Real Estate|36.55
+42856710|HIBB|Hibbett Sports  Inc.|Consumer Discretionary|10.85
+43157110|HI|Hillenbrand  Inc.|Industrials|35.2
+43147510|HRC|Hill-Rom Holdings  Inc.|Health Care|74.07
+40425J10|HMSY|HMS Holdings Corp.|Health Care|17.45
+40425110|HNI|HNI Corporation|Industrials|34.82
+43610610|HFC|HollyFrontier Corporation|Energy|26.47
+43644010|HOLX|Hologic  Inc.|Health Care|42.86
+43689320|HOMB|Home BancShares  Inc.|Financials|23.51
+43707610|HD|Home Depot  Inc.|Consumer Discretionary|156.09
+43785V10|HMST|HomeStreet  Inc.|Financials|24.65
+43940T10|HOPE|Hope Bancorp  Inc.|Financials|16.1
+44032710|HMN|Horace Mann Educators Corporation|Financials|37.05
+44045210|HRL|Hormel Foods Corporation|Consumer Staples|33.93
+44054310|HOS|Hornbeck Offshore Services  Inc.|Energy|2.72
+40434L10|HPQ|HP Inc.|Information Technology|18.96
+40430310|HSNI|HSN  Inc.|Consumer Discretionary|33.65
+44485910|HUM|Humana Inc.|Health Care|224.92
+44615010|HBAN|Huntington Bancshares Incorporated|Financials|12.29
+44641310|HII|Huntington Ingalls Industries  Inc.|Industrials|191.15
+45105510|ICON|Iconix Brand Group  Inc.|Consumer Discretionary|6.41
+44930G10|ICUI|ICU Medical  Inc.|Health Care|168.25
+45168D10|IDXX|IDEXX Laboratories  Inc.|Health Care|161.04
+90210410|IIVI|II-VI Incorporated|Information Technology|30.95
+44967H10|ILG|ILG  Inc.|Consumer Discretionary|26.13
+45232710|ILMN|Illumina  Inc.|Health Care|175.56
+45256B10|IPXL|Impax Laboratories  Inc.|Health Care|16.1
+45329R10|INCR|INC Research Holdings  Inc. Class A|Health Care|56.25
+45337C10|INCY|Incyte Corporation|Health Care|120.89
+45383610|INDB|Independent Bank Corp.|Financials|67.7
+45665Q10|IPCC|Infinity Property and Casualty Corporation|Financials|91.65
+45688C10|NGVT|Ingevity Corporation|Materials|55.86
+45774N10|IPHS|Innophos Holdings  Inc.|Materials|44.17
+45768S10|IOSP|Innospec Inc.|Materials|54.75
+45781M10|INVA|Innoviva  Inc.|Health Care|11.66
+45780L10|INGN|Inogen  Inc.|Health Care|93.93
+45765U10|NSIT|Insight Enterprises  Inc.|Information Technology|41.58
+45778Q10|NSP|Insperity  Inc.|Industrials|80
+45780R10|IBP|Installed Building Products  Inc.|Consumer Discretionary|56.8
+45774W10|IIIN|Insteel Industries  Inc.|Industrials|24.43
+45826H10|ITGR|Integer Holdings Corporation|Health Care|44.2
+45798520|IART|Integra LifeSciences Holdings Corporation|Health Care|46.69
+45811810|IDTI|Integrated Device Technology  Inc.|Information Technology|23.39
+45814010|INTC|Intel Corporation|Information Technology|35.04
+45833410|IPAR|Inter Parfums  Inc.|Consumer Staples|36.05
+45841N10|IBKR|Interactive Brokers Group  Inc. Class A|Financials|40.89
+45866F10|ICE|Intercontinental Exchange  Inc.|Financials|58.07
+45867G10|IDCC|InterDigital  Inc.|Information Technology|79.75
+45866530|TILE|Interface  Inc.|Industrials|18.7
+45904410|IBOC|International Bancshares Corporation|Financials|34.95
+46033520|ISCA|International Speedway Corporation Class A|Consumer Discretionary|34.25
+46116V10|INTL|INTL FCStone Inc.|Financials|35.99
+46120210|INTU|Intuit Inc.|Information Technology|125.35
+46120E60|ISRG|Intuitive Surgical  Inc.|Health Care|982.7
+46120310|IVC|Invacare Corporation|Health Care|13.3
+46145F10|ITG|Investment Technology Group  Inc.|Financials|20.06
+44980X10|IPGP|IPG Photonics Corporation|Information Technology|165.21
+46269C10|IRDM|Iridium Communications Inc.|Telecommunication Services|10.05
+46272610|IRBT|iRobot Corporation|Consumer Discretionary|94.1
+46574110|ITRI|Itron  Inc.|Information Technology|70.2
+46603210|JJSF|J & J Snack Foods Corp.|Consumer Staples|132.99
+70816010|JCP|J. C. Penney Company  Inc.|Consumer Discretionary|3.57
+83269640|SJM|J. M. Smucker Company|Consumer Staples|125.79
+48123V10|JCOM|j2 Global  Inc.|Information Technology|81.98
+46631310|JBL|Jabil Circuit  Inc.|Information Technology|29.33
+46636710|JACK|Jack in the Box Inc.|Consumer Discretionary|96.37
+46981410|JEC|Jacobs Engineering Group Inc.|Industrials|49.58
+47714310|JBLU|JetBlue Airways Corporation|Industrials|20.96
+80042210|JBSS|John B. Sanfilippo & Son  Inc.|Consumer Staples|63.64
+47783910|JBT|John Bean Technologies Corporation|Industrials|84.4
+96822320|JW.A|John Wiley & Sons  Inc. Class A|Consumer Discretionary|53.2
+47816010|JNJ|Johnson & Johnson|Health Care|126.67
+G5150210|JCI|Johnson Controls International plc|Industrials|41.33
+46625H10|JPM|JPMorgan Chase & Co.|Financials|84.27
+48203R10|JNPR|Juniper Networks  Inc.|Information Technology|29.76
+48300770|KALU|Kaiser Aluminum Corporation|Materials|94.83
+48354810|KAMN|Kaman Corporation Class A|Industrials|48.22
+48562P10|KS|KapStone Paper and Packaging Corporation|Materials|21.09
+48586510|KATE|Kate Spade & Co|Consumer Discretionary|18.42
+48242W10|KBR|KBR  Inc.|Industrials|14.67
+48783610|K|Kellogg Company|Consumer Staples|70.53
+48815220|KELYA|Kelly Services  Inc. Class A|Industrials|21.28
+48840110|KMPR|Kemper Corporation|Financials|36.7
+48917010|KMT|Kennametal Inc.|Industrials|33.48
+49326710|KEY|KeyCorp|Financials|17.65
+49338L10|KEYS|Keysight Technologies Inc|Information Technology|37.84
+49436810|KMB|Kimberly-Clark Corporation|Consumer Staples|127.96
+49458010|KND|Kindred Healthcare  Inc.|Health Care|7.6
+49749810|KIRK|Kirkland's  Inc.|Consumer Discretionary|8.38
+48248010|KLAC|KLA-Tencor Corporation|Information Technology|99.88
+48253910|KLXI|KLX  Inc.|Industrials|48.9
+49926D10|KN|Knowles Corp.|Information Technology|14.15
+50025510|KSS|Kohl's Corporation|Consumer Discretionary|37.34
+50060010|KOPN|Kopin Corporation|Information Technology|3.61
+50060P10|KOP|Koppers Holdings Inc.|Materials|37.55
+50064320|KFY|Korn/Ferry International|Industrials|31.43
+50075410|KHC|Kraft Heinz Company|Consumer Staples|89.51
+50077C10|KRA|Kraton Corporation|Materials|33.76
+50104410|KR|Kroger Co.|Consumer Staples|22.61
+50124210|KLIC|Kulicke & Soffa Industries  Inc.|Information Technology|18.57
+50179710|LB|L Brands  Inc.|Consumer Discretionary|36.29
+50241310|LLL|L3 Technologies  Inc.|Industrials|161.32
+50540R40|LH|Laboratory Corporation of America Holdings|Health Care|137.51
+51280710|LRCX|Lam Research Corporation|Information Technology|147.27
+51327210|LW|Lamb Weston Holdings  Inc.|Consumer Staples|44.17
+51384710|LANC|Lancaster Colony Corporation|Consumer Staples|117.78
+51476K10|LDR|Landauer  Inc.|Health Care|54.15
+51601210|LCI|Lannett Company  Inc.|Health Care|15.6
+51654410|LNTH|Lantheus Holdings Inc|Health Care|15.5
+51794210|LHO|LaSalle Hotel Properties|Real Estate|27.83
+50533610|LZB|LaZBoy Incorporated|Consumer Discretionary|31.15
+50189K10|LCII|LCI Industries|Consumer Discretionary|95.05
+52471Y10|LTXB|LegacyTexas Financial Group  Inc.|Financials|35.79
+52466010|LEG|Leggett & Platt  Incorporated|Consumer Discretionary|50.61
+52532710|LDOS|Leidos Holdings  Inc.|Information Technology|52.27
+52555820|LMAT|LeMaitre Vascular  Inc.|Health Care|33.83
+52603B10|TREE|LendingTree  Inc.|Financials|225.8
+52605710|LEN|Lennar Corporation Class A|Consumer Discretionary|50.27
+52610710|LII|Lennox International Inc.|Industrials|171.31
+52728810|LUK|Leucadia National Corporation|Financials|23.98
+50187T10|LGIH|LGI Homes  Inc.|Consumer Discretionary|45.72
+50187A10|LHCG|LHC Group  Inc.|Health Care|64.43
+53223X10|LSI|Life Storage  Inc.|Real Estate|74.6
+53219L10|LPNT|LifePoint Health  Inc.|Health Care|57.35
+53220K50|LGND|Ligand Pharmaceuticals Incorporated|Health Care|113.32
+53390010|LECO|Lincoln Electric Holdings  Inc.|Industrials|85.16
+53418710|LNC|Lincoln National Corporation|Financials|64.45
+53555510|LNN|Lindsay Corporation|Industrials|85.72
+53635B10|LQDT|Liquidity Services  Inc.|Information Technology|5.8
+53679710|LAD|Lithia Motors  Inc. Class A|Consumer Discretionary|88.32
+53700810|LFUS|Littelfuse  Inc.|Information Technology|175.97
+G5509L10|LIVN|LivaNova Plc|Health Care|58.315
+53814610|LPSN|LivePerson  Inc.|Information Technology|12.95
+53983010|LMT|Lockheed Martin Corporation|Industrials|269.24
+54142L10|LOGM|LogMeIn  Inc.|Information Technology|109.85
+54866110|LOW|Lowe's Companies  Inc.|Consumer Discretionary|83.75
+50216010|LXU|LSB Industries  Inc.|Materials|6.22
+50218P10|LKSD|LSC Communications  Inc.|Industrials|15.62
+50217510|LTC|LTC Properties  Inc.|Real Estate|48.06
+55003T10|LL|Lumber Liquidators Holdings  Inc.|Consumer Discretionary|35.65
+55024U10|LITE|Lumentum Holdings  Inc.|Information Technology|51.1
+55027E10|LMNX|Luminex Corp|Health Care|19.23
+55028310|LMOS|Lumos Networks Corp.|Telecommunication Services|17.88
+55081910|LDL|Lydall  Inc.|Industrials|46.7
+55261F10|MTB|M&T Bank Corporation|Financials|156.53
+55305B10|MHO|M/I Homes  Inc.|Consumer Discretionary|28.19
+55616P10|M|Macy's Inc|Consumer Discretionary|19.53
+55907920|MGLN|Magellan Health  Inc.|Health Care|77.25
+G5753U11|MHLD|Maiden Holdings  Ltd.|Financials|10.65
+G5785G10|MNK|Mallinckrodt Plc|Health Care|36.13
+56275010|MANH|Manhattan Associates  Inc.|Information Technology|41.09
+56456310|MANT|ManTech International Corporation Class A|Information Technology|37.63
+56585A10|MPC|Marathon Petroleum Corporation|Energy|52.05
+56633010|MCS|Marcus Corporation|Consumer Discretionary|24.5
+56790810|HZO|MarineMax  Inc.|Consumer Discretionary|15.2
+57060D10|MKTX|MarketAxess Holdings Inc.|Financials|191.59
+57164Y10|VAC|Marriott Vacations Worldwide Corporation|Consumer Discretionary|110.27
+57328410|MLM|Martin Marietta Materials  Inc.|Materials|224.77
+57459910|MAS|Masco Corporation|Industrials|36.85
+57479510|MASI|Masimo Corporation|Health Care|83.67
+57669010|MTRN|Materion Corporation|Materials|37.2
+57685310|MTRX|Matrix Service Company|Energy|9.95
+57708110|MAT|Mattel  Inc.|Consumer Discretionary|16.42
+57712810|MATW|Matthews International Corporation Class A|Industrials|60.3
+57793310|MMS|MAXIMUS  Inc.|Information Technology|62.37
+57776J10|MXL|MaxLinear inc|Information Technology|20.67
+55264U10|MBFI|MB Financial  Inc.|Financials|38.72
+58013510|MCD|McDonald's Corporation|Consumer Discretionary|146.41
+58155Q10|MCK|McKesson Corporation|Health Care|142.04
+58283910|MJN|Mead Johnson Nutrition Company|Consumer Staples|88.97
+58468810|MDCO|Medicines Company|Health Care|43.96
+58471A10|MDSO|Medidata Solutions  Inc.|Health Care|71.45
+58470H10|MED|Medifast  Inc.|Consumer Staples|55.63
+58502B10|MD|MEDNAX  Inc.|Health Care|42.96
+G5960L10|MDT|Medtronic plc|Health Care|82.66
+58933Y10|MRK|Merck & Co.  Inc.|Health Care|63
+58940010|MCY|Mercury General Corporation|Financials|57.9
+58937810|MRCY|Mercury Systems  Inc.|Industrials|38.82
+58943310|MDP|Meredith Corporation|Consumer Discretionary|51.7
+58958410|VIVO|Meridian Bioscience  Inc.|Health Care|13.65
+58988910|MMSI|Merit Medical Systems  Inc.|Health Care|40.65
+59001A10|MTH|Meritage Homes Corporation|Consumer Discretionary|42.3
+59152020|MEI|Methode Electronics  Inc.|Information Technology|37.75
+59156R10|MET|MetLife  Inc.|Financials|49.96
+G6075410|KORS|Michael Kors Holdings Ltd|Consumer Discretionary|41.95
+59408Q10|MIK|Michaels Companies Inc|Consumer Discretionary|19.36
+59511210|MU|Micron Technology  Inc.|Information Technology|27
+59513710|MSCC|Microsemi Corporation|Information Technology|47.36
+59491810|MSFT|Microsoft Corporation|Information Technology|67.48
+59497240|MSTR|MicroStrategy Incorporated Class A|Information Technology|125.21
+59522J10|MAA|Mid-America Apartment Communities  Inc.|Real Estate|99.33
+60249610|MDXG|MiMedx Group  Inc.|Health Care|16.87
+60315810|MTX|Minerals Technologies Inc.|Materials|72.4
+55306N10|MKSI|MKS Instruments  Inc.|Information Technology|78.15
+60740F10|MINI|Mobile Mini  Inc.|Industrials|28.75
+60855R10|MOH|Molina Healthcare  Inc.|Health Care|59.98
+60877T10|MNTA|Momenta Pharmaceuticals  Inc.|Health Care|15.7
+60902710|MCRI|Monarch Casino & Resort  Inc.|Consumer Discretionary|34.37
+61022P10|TYPE|Monotype Imaging Holdings Inc.|Information Technology|18.2
+61023610|MNRO|Monro Muffler Brake  Inc.|Consumer Discretionary|50
+61166W10|MON|Monsanto Company|Materials|115.82
+61174X10|MNST|Monster Beverage Corporation|Consumer Staples|46.8
+61539420|MOG.A|Moog Inc. Class A|Industrials|65.94
+61945C10|MOS|Mosaic Company|Materials|22.81
+62007110|MPAA|Motorcar Parts of America  Inc.|Consumer Discretionary|25.05
+62007630|MSI|Motorola Solutions  Inc.|Information Technology|81.85
+62458010|MOV|Movado Group  Inc.|Consumer Discretionary|21.8
+55349810|MSA|MSA Safety  Inc.|Industrials|69.04
+55353010|MSM|MSC Industrial Direct Co.  Inc. Class A|Industrials|82.2
+55377710|MTSC|MTS Systems Corporation|Information Technology|51.85
+62475610|MLI|Mueller Industries  Inc.|Industrials|28.36
+62538310|LABL|Multi-Color Corporation|Industrials|76.75
+62675510|MUSA|Murphy USA  Inc.|Consumer Discretionary|66.4
+62846410|MYE|Myers Industries  Inc.|Materials|16.9
+N5946510|MYL|Mylan N.V.|Health Care|38.65
+55405W10|MYRG|MYR Group Inc.|Industrials|23.12
+62855J10|MYGN|Myriad Genetics  Inc.|Health Care|28.94
+63007710|NANO|Nanometrics Incorporated|Information Technology|26.97
+63110310|NDAQ|Nasdaq  Inc.|Financials|66.73
+63370710|NBHC|National Bank Holdings Corporation Class A|Financials|31.97
+63707110|NOV|National Oilwell Varco  Inc.|Energy|33.38
+63721510|NPK|National Presto Industries  Inc.|Industrials|103.85
+63741710|NNN|National Retail Properties  Inc.|Real Estate|41.19
+63905010|BABY|Natus Medical Incorporated|Health Care|33.675
+63910B10|NLS|Nautilus Inc|Consumer Discretionary|16.85
+63938C10|NAVI|Navient Corp|Financials|13.64
+63935N10|NCI|Navigant Consulting  Inc.|Industrials|15.06
+63890410|NAVG|Navigators Group  Inc.|Financials|55.8
+62877810|NBTB|NBT Bancorp Inc.|Financials|33.1
+64007910|NP|Neenah Paper  Inc.|Materials|76.6
+64026810|NKTR|Nektar Therapeutics|Health Care|18.9
+64049110|NEOG|Neogen Corporation|Health Care|65.28
+64110D10|NTAP|NetApp  Inc.|Information Technology|40.34
+64110L10|NFLX|Netflix  Inc.|Consumer Discretionary|153.2
+64111Q10|NTGR|NETGEAR  Inc.|Information Technology|45.5
+64115T10|NTCT|NetScout Systems  Inc.|Information Technology|32.55
+64704V10|NEWM|New Media Investment Group  Inc.|Consumer Discretionary|13.48
+64944510|NYCB|New York Community Bancorp  Inc.|Financials|11.9
+65011110|NYT|New York Times Company Class A|Consumer Discretionary|16.85
+65158710|NEU|NewMarket Corporation|Materials|418.49
+65163910|NEM|Newmont Mining Corporation|Materials|34.26
+65171850|NR|Newpark Resources  Inc.|Energy|7.45
+62914B10|EGOV|NIC Inc.|Information Technology|15.7
+G6518L10|NLSN|Nielsen Holdings Plc|Industrials|39.35
+65410610|NKE|NIKE  Inc. Class B|Consumer Discretionary|51.8
+G6543110|NE|Noble Corporation plc|Energy|3.16
+65566310|NDSN|Nordson Corporation|Industrials|125.12
+65566410|JWN|Nordstrom  Inc.|Consumer Discretionary|40.81
+66553110|NOG|Northern Oil and Gas  Inc.|Energy|1
+66611T10|NFBK|Northfield Bancorp  Inc.|Financials|16.74
+66680710|NOC|Northrop Grumman Corporation|Industrials|246.32
+66734010|NWBI|Northwest Bancshares  Inc.|Financials|15.51
+67011P10|DNOW|NOW  Inc.|Industrials|11.52
+67018T10|NUS|Nu Skin Enterprises  Inc. Class A|Consumer Staples|57.41
+67034610|NUE|Nucor Corporation|Materials|53.73
+67069D10|NTRI|Nutrisystem  Inc.|Consumer Discretionary|54.9
+67070410|NUVA|NuVasive  Inc.|Health Care|71.25
+67066G10|NVDA|NVIDIA Corporation|Information Technology|127.72
+62944T10|NVR|NVR  Inc.|Consumer Discretionary|2232.67
+67523210|OII|Oceaneering International  Inc.|Energy|25.78
+67555N20|OCLR|Oclaro  Inc.|Information Technology|8.12
+67622010|ODP|Office Depot  Inc.|Consumer Discretionary|4.07
+67103X10|OFG|OFG Bancorp|Financials|9.7
+67802610|OIS|Oil States International  Inc.|Energy|21.15
+68003310|ONB|Old National Bancorp|Financials|16.2
+68022310|ORI|Old Republic International Corporation|Financials|19.11
+68066520|OLN|Olin Corporation|Materials|30.62
+68111610|OLLI|Ollie's Bargain Outlet Holdings Inc|Consumer Discretionary|43.5
+68162K10|ZEUS|Olympic Steel  Inc.|Materials|16.73
+68193610|OHI|Omega Healthcare Investors  Inc.|Real Estate|33.17
+68213N10|OMCL|Omnicell  Inc.|Health Care|49.95
+68215910|ASGN|On Assignment  Inc.|Industrials|45.96
+68400010|OPB|Opus Bank|Financials|22.15
+68554V10|OSUR|OraSure Technologies  Inc.|Health Care|20.47
+68557N10|OA|Orbital ATK  Inc.|Industrials|96.6
+67103H10|ORLY|O'Reilly Automotive  Inc.|Consumer Discretionary|197.8
+68628V30|ORN|Orion Group Holdings  Inc.|Industrials|5.26
+68633D10|ORIT|Oritani Financial Corp.|Financials|15.9
+N6748L10|OFIX|Orthofix International NV|Health Care|48.24
+68823920|OSK|Oshkosh Corp|Industrials|72.86
+67104410|OSIS|OSI Systems  Inc.|Information Technology|78.37
+69073210|OMI|Owens & Minor  Inc.|Health Care|27.45
+69149730|OXM|Oxford Industries  Inc.|Consumer Discretionary|58.06
+37731610|GLT|P. H. Glatfelter Company|Materials|16.72
+69515610|PKG|Packaging Corporation of America|Materials|100.55
+69526310|PACW|PacWest Bancorp|Financials|43.64
+69840W10|PNRA|Panera Bread Company Class A|Consumer Discretionary|312.87
+69881310|PZZA|Papa John's International  Inc.|Consumer Discretionary|78.62
+69946210|PRXL|PAREXEL International Corporation|Health Care|87.67
+70041620|PKE|Park Electrochemical Corp.|Information Technology|17.84
+70156Q10|PKY|Parkway  Inc.|Real Estate|22.9
+70334310|PATK|Patrick Industries  Inc.|Industrials|67.4
+70339510|PDCO|Patterson Companies  Inc.|Health Care|36.36
+70450Y10|PYPL|PayPal Holdings Inc|Information Technology|59.4
+69318G10|PBF|PBF Energy  Inc. Class A|Energy|20.05
+69327R10|PDCE|PDC Energy Inc|Energy|37.98
+70756910|PENN|Penn National Gaming  Inc.|Consumer Discretionary|20.31
+70910210|PEI|Pennsylvania Real Estate Investment Trust|Real Estate|10.24
+71270410|PBCT|People's United Financial  Inc.|Financials|16.58
+71375U10|PRFT|Perficient  Inc.|Information Technology|17.71
+G9782210|PRGO|Perrigo Co. Plc|Health Care|77.58
+28885310|PERY|Perry Ellis International  Inc.|Consumer Discretionary|16.97
+71638210|PETS|PetMed Express  Inc.|Consumer Discretionary|41.73
+71708110|PFE|Pfizer Inc.|Health Care|32.23
+69336V10|PGTI|PGT Innovations  Inc.|Industrials|12.85
+71714F10|PMC|PharMerica Corporation|Health Care|29.05
+71742Q10|PAHC|Phibro Animal Health Corporation Class A|Health Care|39.6
+72346Q10|PNFP|Pinnacle Financial Partners  Inc.|Financials|59.5
+72366410|PES|Pioneer Energy Services Corp.|Energy|1.8
+72407810|PJC|Piper Jaffray Companies|Financials|54.9
+72749310|PLT|Plantronics  Inc.|Information Technology|41.36
+72913210|PLXS|Plexus Corp.|Information Technology|49.37
+69347510|PNC|PNC Financial Services Group  Inc.|Financials|117.19
+73106810|PII|Polaris Industries Inc.|Consumer Discretionary|85.94
+73278L10|POOL|Pool Corporation|Consumer Discretionary|105.71
+73744610|POST|Post Holdings  Inc.|Consumer Staples|81.61
+73912810|POWL|Powell Industries  Inc.|Industrials|27.76
+73927610|POWI|Power Integrations  Inc.|Information Technology|64.6
+69354N10|PRAA|PRA Group Inc|Financials|29.95
+74112D10|PBH|Prestige Brands Holdings  Inc.|Health Care|50.69
+74164M10|PRI|Primerica  Inc.|Financials|77.85
+74296210|PVTB|PrivateBancorp  Inc.|Financials|59.5
+74267C10|PRA|ProAssurance Corporation|Financials|54.1
+74318710|PGNX|Progenics Pharmaceuticals  Inc.|Health Care|5.76
+74331210|PRGS|Progress Software Corporation|Information Technology|32.68
+74331510|PGR|Progressive Corporation|Financials|41.16
+74360610|PB|Prosperity Bancshares  Inc.(R)|Financials|60.7
+74371310|PRLB|Proto Labs  Inc.|Industrials|70.45
+74381510|PRSC|Providence Service Corporation|Health Care|50.9
+74386T10|PFS|Provident Financial Services  Inc.|Financials|24.66
+74432010|PRU|Prudential Financial  Inc.|Financials|103.42
+69370C10|PTC|PTC Inc.|Information Technology|51.63
+74460D10|PSA|Public Storage|Real Estate|212.95
+69365610|PVH|PVH Corp.|Consumer Discretionary|120.06
+74736K10|QRVO|Qorvo  Inc.|Information Technology|69.33
+74731610|KWR|Quaker Chemical Corporation|Materials|132.1
+74752510|QCOM|QUALCOMM Incorporated|Information Technology|51.98
+74754510|QCP|Quality Care Properties  Inc.|Real Estate|17.46
+74758210|QSII|Quality Systems  Inc.|Health Care|15.69
+74758T30|QLYS|Qualys  Inc.|Information Technology|45.3
+74761910|NX|Quanex Building Products Corporation|Industrials|18.85
+74762E10|PWR|Quanta Services  Inc.|Industrials|31.05
+74834L10|DGX|Quest Diagnostics Incorporated|Health Care|105.12
+74874Q10|QNST|QuinStreet  Inc.|Information Technology|4.53
+74909E10|QHC|Quorum Health Corp.|Health Care|2.72
+25786720|RRD|R.R. Donnelley & Sons Company|Industrials|8.69
+75121210|RL|Ralph Lauren Corporation Class A|Consumer Discretionary|84.9
+75091710|RMBS|Rambus Inc.|Information Technology|12.61
+75281A10|RRC|Range Resources Corporation|Energy|17.6
+75421210|RAVN|Raven Industries  Inc.|Industrials|31.4
+75473010|RJF|Raymond James Financial  Inc.|Financials|71.78
+75508B10|RYAM|Rayonier Advanced Materials Inc|Materials|13.63
+75511150|RTN|Raytheon Company|Industrials|157.3
+75524W10|RMAX|RE/MAX Holdings  Inc.|Real Estate|59.4
+75610910|O|Realty Income Corporation|Real Estate|53.76
+75657710|RHT|Red Hat  Inc.|Information Technology|102.65
+75689M10|RRGB|Red Robin Gourmet Burgers  Inc.|Consumer Discretionary|58.5
+75886F10|REGN|Regeneron Pharmaceuticals  Inc.|Health Care|446.72
+7591EP10|RF|Regions Financial Corporation|Financials|13.97
+75893210|RGS|Regis Corporation|Consumer Discretionary|10.01
+75950910|RS|Reliance Steel & Aluminum Co.|Materials|69.4
+G7496G10|RNR|RenaissanceRe Holdings Ltd.|Financials|145.43
+76009N10|RCII|Rent-A-Center Inc|Consumer Discretionary|11.14
+75991610|RGEN|Repligen Corporation|Health Care|40.31
+76075910|RSG|Republic Services  Inc.|Industrials|61.25
+76115210|RMD|ResMed Inc.|Health Care|67.66
+76122Q10|RECN|Resources Connection  Inc.|Industrials|12.45
+76162410|REX|REX American Resources Corporation|Energy|92.06
+76171310|RAI|Reynolds American Inc.|Consumer Staples|66.17
+74967X10|RH|RH|Consumer Discretionary|48.25
+74960710|RLI|RLI Corp.|Financials|54.23
+77032310|RHI|Robert Half International Inc.|Industrials|43.56
+77434110|COL|Rockwell Collins  Inc.|Industrials|102.07
+77513310|ROG|Rogers Corporation|Information Technology|112.64
+77571110|ROL|Rollins  Inc.|Industrials|44.15
+77829610|ROST|Ross Stores  Inc.|Consumer Discretionary|61.52
+G7665A10|RDC|Rowan Cos. Plc Class A|Energy|13.31
+V7780T10|RCL|Royal Caribbean Cruises Ltd.|Consumer Discretionary|103.65
+78028710|RGLD|Royal Gold  Inc.|Materials|86.99
+78118210|RT|Ruby Tuesday  Inc.|Consumer Discretionary|2.26
+78127010|RTEC|Rudolph Technologies  Inc.|Information Technology|21.55
+78333210|RUTH|Ruth's Hospitality Group  Inc.|Consumer Discretionary|19.7
+78385910|STBA|S&T Bancorp  Inc.|Financials|34.94
+78573L10|SBRA|Sabra Health Care REIT  Inc.|Real Estate|21.63
+78573M10|SABR|Sabre Corp.|Information Technology|17.44
+78648T10|SAFT|Safety Insurance Group  Inc.|Financials|71.45
+79466L30|CRM|salesforce.com  inc.|Information Technology|87.84
+79546E10|SBH|Sally Beauty Holdings  Inc.|Consumer Discretionary|17.87
+80001310|SAFM|Sanderson Farms  Inc.|Consumer Staples|140.44
+80105610|SANM|Sanmina-SCI Corporation|Information Technology|35.2
+80439510|BFS|Saul Centers  Inc.|Real Estate|58.62
+80603710|SCSC|ScanSource  Inc.|Information Technology|37.6
+80706610|SCHL|Scholastic Corporation|Consumer Discretionary|38.99
+80854110|SWM|Schweitzer-Mauduit International  Inc.|Materials|37.75
+80862K10|SCLN|SciClone Pharmaceuticals  Inc.|Health Care|11.1
+80862510|SAIC|Science Applications International Corp.|Information Technology|71.54
+80874P10|SGMS|Scientific Games Corporation Class A|Consumer Discretionary|34.25
+81018610|SMG|Scotts Miracle-Gro Company Class A|Materials|87.44
+81106510|SNI|Scripps Networks Interactive  Inc. Class A|Consumer Discretionary|66.5
+81190410|CKH|SEACOR Holdings Inc.|Energy|36.17
+G7945M10|STX|Seagate Technology PLC|Information Technology|42.16
+81211K10|SEE|Sealed Air Corporation|Materials|43.64
+78411710|SEIC|SEI Investments Company|Financials|49.64
+81616X10|SCSS|Select Comfort Corporation|Consumer Discretionary|30.65
+81619Q10|SEM|Select Medical Holdings Corporation|Health Care|16.75
+81630010|SIGI|Selective Insurance Group  Inc.|Financials|49.1
+81685010|SMTC|Semtech Corporation|Information Technology|35.5
+81707050|SENEA|Seneca Foods Corporation Class A|Consumer Staples|28.75
+81768T10|SFBS|ServisFirst Bancshares Inc|Financials|33.56
+81904710|SHAK|Shake Shack  Inc. Class A|Consumer Discretionary|30.91
+82434810|SHW|Sherwin-Williams Company|Materials|328.47
+82488910|SCVL|Shoe Carnival  Inc.|Consumer Discretionary|20.47
+82568P30|SFLY|Shutterfly  Inc.|Consumer Discretionary|44.6
+82569010|SSTK|Shutterstock  Inc.|Information Technology|33.16
+82669G10|SBNY|Signature Bank|Financials|137.85
+G8127610|SIG|Signet Jewelers Limited|Consumer Discretionary|52.82
+82691910|SLAB|Silicon Laboratories Inc.|Information Technology|72.3
+82873020|SFNC|Simmons First National Corporation Class A|Financials|51.5
+82907310|SSD|Simpson Manufacturing Co.  Inc.|Industrials|42.01
+83056610|SKX|Skechers U.S.A.  Inc. Class A|Consumer Discretionary|23.35
+83087910|SKYW|SkyWest  Inc|Industrials|34.7
+83088M10|SWKS|Skyworks Solutions  Inc.|Information Technology|100.55
+78442P10|SLM|SLM Corp|Financials|10.16
+78454L10|SM|SM Energy Company|Energy|13.55
+83303410|SNA|Snap-on Incorporated|Industrials|141.7
+83355110|LNCE|Snyder's-Lance  Inc.|Consumer Staples|37.15
+83545G10|SAH|Sonic Automotive  Inc. Class A|Consumer Discretionary|18.1
+83545110|SONC|Sonic Corp.|Consumer Discretionary|23.27
+83589810|BID|Sotheby's Class A|Consumer Discretionary|46.05
+84470P10|SBSI|Southside Bancshares  Inc.|Financials|32.22
+84474110|LUV|Southwest Airlines Co.|Industrials|57.04
+84546710|SWN|Southwestern Energy Company|Energy|5.18
+84721510|SPTN|SpartanNash Company|Consumer Staples|24.33
+84763A10|SPPI|Spectrum Pharmaceuticals  Inc.|Health Care|5.78
+84863T10|SPOK|Spok Holdings  Inc.|Telecommunication Services|16.2
+85208M10|SFM|Sprouts Farmers Markets  Inc.|Consumer Staples|23.7
+78463M10|SPSC|SPS Commerce  Inc.|Information Technology|59.09
+78463510|SPXC|SPX Corporation|Industrials|23.6
+78469X10|FLOW|SPX Flow  Inc.|Industrials|31.46
+78470V10|SRCI|SRC Energy Inc|Energy|7.64
+85285720|STMP|Stamps.com Inc.|Information Technology|116.3
+85366610|SMP|Standard Motor Products  Inc.|Consumer Discretionary|44.34
+85423110|SXI|Standex International Corporation|Industrials|94.45
+85503010|SPLS|Staples  Inc.|Consumer Discretionary|8.85
+85524410|SBUX|Starbucks Corporation|Consumer Discretionary|59.73
+85747710|STT|State Street Corporation|Financials|79.82
+85811910|STLD|Steel Dynamics  Inc.|Materials|33.89
+85837510|SMRT|Stein Mart  Inc.|Consumer Discretionary|1.7
+85858610|SCL|Stepan Company|Materials|76.1
+85891210|SRCL|Stericycle  Inc.|Industrials|83.32
+85917A10|STL|Sterling Bancorp|Financials|22
+55626910|SHOO|Steven Madden  Ltd.|Consumer Discretionary|40.1
+86037210|STC|Stewart Information Services Corporation|Financials|36.41
+86063010|SF|Stifel Financial Corp.|Financials|44.69
+86323610|STRA|Strayer Education  Inc.|Consumer Discretionary|77.57
+86415910|RGR|Sturm  Ruger & Company  Inc.|Consumer Discretionary|50.7
+86490910|SCMP|Sucampo Pharmaceuticals  Inc. Class A|Health Care|11.05
+86722A10|SXC|SunCoke Energy  Inc.|Materials|8.83
+86791410|STI|SunTrust Banks  Inc.|Financials|53.59
+86800U10|SMCI|Super Micro Computer  Inc.|Information Technology|26.35
+86816810|SUP|Superior Industries International  Inc.|Consumer Discretionary|18.95
+86845910|SUPN|Supernus Pharmaceuticals  Inc.|Health Care|32.95
+86887310|SRDX|Surmodics Inc|Health Care|25.4
+78486Q10|SIVB|SVB Financial Group|Financials|174.16
+87123710|SYKE|Sykes Enterprises  Incorporated|Information Technology|25.87
+87150310|SYMC|Symantec Corporation|Information Technology|30.12
+87157D10|SYNA|Synaptics Incorporated|Information Technology|54.58
+87157B10|SNCR|Synchronoss Technologies  Inc.|Information Technology|16.79
+87165B10|SYF|Synchrony Financial|Financials|30.26
+87162W10|SNX|SYNNEX Corporation|Information Technology|113.8
+87160710|SNPS|Synopsys  Inc.|Information Technology|73.395
+87161C50|SNV|Synovus Financial Corp.|Financials|40.54
+87182910|SYY|Sysco Corporation|Consumer Staples|54.4
+87403A10|TLRD|Tailored Brands  Inc.|Consumer Discretionary|11.36
+87405410|TTWO|Take-Two Interactive Software  Inc.|Information Technology|66.52
+87546510|SKT|Tanger Factory Outlet Centers  Inc.|Real Estate|24.1
+87612E10|TGT|Target Corporation|Consumer Discretionary|56.56
+87227510|TCF|TCF Financial Corporation|Financials|14.96
+87815510|TISI|Team  Inc.|Industrials|10.7
+87823710|TECD|Tech Data Corporation|Information Technology|102.35
+G8711010|FTI|TechnipFMC Plc|Energy|25.43
+87901J10|TGNA|TEGNA  Inc.|Consumer Discretionary|21.93
+87936910|TFX|Teleflex Incorporated|Health Care|211.77
+87993910|TTEC|TeleTech Holdings  Inc.|Information Technology|39.95
+88023U10|TPX|Tempur Sealy International Inc|Consumer Discretionary|61.51
+88033G40|THC|Tenet Healthcare Corporation|Health Care|17.27
+88034510|TNC|Tennant Company|Industrials|71.95
+88076W10|TDC|Teradata Corporation|Information Technology|30.14
+88077010|TER|Teradyne  Inc.|Information Technology|33.86
+88077910|TEX|Terex Corporation|Industrials|31.92
+88157K10|TESO|Tesco Corporation|Energy|4.25
+88160910|TSO|Tesoro Corporation|Energy|81.84
+88162G10|TTEK|Tetra Tech  Inc.|Industrials|40.425
+88162F10|TTI|TETRA Technologies  Inc.|Energy|1.94
+88224Q10|TCBI|Texas Capital Bancshares  Inc.|Financials|72.45
+88250810|TXN|Texas Instruments Incorporated|Information Technology|78.68
+88268110|TXRH|Texas Roadhouse  Inc.|Consumer Discretionary|48.25
+88320310|TXT|Textron Inc.|Industrials|47.53
+88516010|THO|Thor Industries  Inc.|Consumer Discretionary|103.45
+88654710|TIF|Tiffany & Co.|Consumer Discretionary|91.06
+88677Q10|TTS|Tile Shop Holdings  Inc.|Consumer Discretionary|14.65
+88722810|TIME|Time  Inc.|Consumer Discretionary|12.25
+88731730|TWX|Time Warner Inc.|Consumer Discretionary|96.75
+88739910|TMST|TimkenSteel Corp|Materials|14.37
+88830M10|TWI|Titan International  Inc.|Industrials|8.3
+88870R10|TVTY|Tivity Health  Inc.|Health Care|37.75
+88870P10|TIVO|TiVo Corp.|Information Technology|18.5
+87254010|TJX|TJX Companies Inc|Consumer Discretionary|74.77
+88947810|TOL|Toll Brothers  Inc.|Consumer Discretionary|36.84
+89011010|TMP|Tompkins Financial Corporation|Financials|76.61
+89051610|TR|Tootsie Roll Industries  Inc.|Consumer Staples|35.25
+89055F10|BLD|TopBuild Corp.|Consumer Discretionary|56.78
+89109210|TTC|Toro Company|Industrials|65.56
+89190610|TSS|Total System Services  Inc.|Information Technology|57.95
+89235610|TSCO|Tractor Supply Company|Consumer Discretionary|57.73
+89364110|TDG|TransDigm Group Incorporated|Industrials|271.43
+H8817H10|RIG|Transocean Ltd.|Energy|7.32
+89465010|TG|Tredegar Corporation|Materials|16.55
+89469A10|THS|TreeHouse Foods  Inc.|Consumer Staples|76.49
+89531P10|TREX|Trex Company  Inc.|Industrials|72.93
+89623910|TRMB|Trimble Inc.|Information Technology|34.46
+89652210|TRN|Trinity Industries  Inc.|Industrials|26.23
+89694520|TRIP|TripAdvisor  Inc.|Consumer Discretionary|40.48
+89681810|TGI|Triumph Group  Inc.|Industrials|24.9
+89785X10|TBI|TrueBlue  Inc.|Industrials|19.55
+89834910|TRST|TrustCo Bank Corp NY|Financials|7.8
+89840210|TRMK|Trustmark Corporation|Financials|29.62
+87305R10|TTMI|TTM Technologies  Inc.|Information Technology|12.9
+89903550|TUES|Tuesday Morning Corporation|Consumer Discretionary|1.7
+90130A10|FOXA|Twenty-First Century Fox  Inc. Class A|Consumer Discretionary|26.85
+90130A20|FOX|Twenty-First Century Fox  Inc. Class B|Consumer Discretionary|26.77
+90225210|TYL|Tyler Technologies  Inc.|Information Technology|170.13
+90249410|TSN|Tyson Foods  Inc. Class A|Consumer Staples|65.11
+90297330|USB|U.S. Bancorp|Financials|50.46
+90333L20|USCR|U.S. Concrete  Inc.|Materials|76.4
+90337L10|USPH|U.S. Physical Therapy  Inc.|Health Care|61.1
+90346E10|SLCA|U.S. Silica Holdings  Inc.|Energy|25.26
+90265310|UDR|UDR  Inc.|Real Estate|37.4
+90384S30|ULTA|Ulta Beauty Inc|Consumer Discretionary|292.09
+90403410|UTEK|Ultratech  Inc.|Information Technology|29.82
+90278810|UMBF|UMB Financial Corporation|Financials|65.93
+90421410|UMPQ|Umpqua Holdings Corporation|Financials|17.16
+90431110|UAA|Under Armour  Inc. Class A|Consumer Discretionary|16.59
+90431120|UA|Under Armour  Inc. Class C|Consumer Discretionary|15.15
+90467720|UFI|Unifi  Inc.|Consumer Discretionary|30.38
+90470810|UNF|UniFirst Corporation|Industrials|136.8
+90921810|UNT|Unit Corporation|Energy|15.8
+90990710|UBSI|United Bankshares  Inc.|Financials|32.9
+90984P30|UCBI|United Community Banks  Inc.|Financials|25.7
+91004710|UAL|United Continental Holdings  Inc.|Industrials|76.18
+91034010|UFCS|United Fire Group  Inc.|Financials|42.07
+91071010|UIHC|United Insurance Holdings Corp.|Financials|16.15
+91116310|UNFI|United Natural Foods  Inc.|Consumer Staples|35.43
+91136310|URI|United Rentals  Inc.|Industrials|105.1
+91290910|X|United States Steel Corporation|Materials|23.32
+91307C10|UTHR|United Therapeutics Corporation|Health Care|120.9
+91324P10|UNH|UnitedHealth Group Incorporated|Health Care|168.86
+91345610|UVV|Universal Corp|Consumer Staples|58.45
+91348310|UEIC|Universal Electronics Inc.|Consumer Discretionary|64.1
+91354310|UFPI|Universal Forest Products  Inc.|Industrials|79.15
+91390310|UHS|Universal Health Services  Inc. Class B|Health Care|107.84
+91359V10|UVE|Universal Insurance Holdings  Inc.|Financials|22.85
+91529Y10|UNM|Unum Group|Financials|47.33
+91704710|URBN|Urban Outfitters  Inc.|Consumer Discretionary|18.89
+91728620|UBA|Urstadt Biddle Properties Inc. Class A|Real Estate|20.6
+91732J10|ECOL|US Ecology  Inc.|Industrials|49.7
+91820410|VFC|V.F. Corporation|Consumer Discretionary|62.95
+91913Y10|VLO|Valero Energy Corporation|Energy|63.8
+91979410|VLY|Valley National Bancorp|Financials|11.12
+92025310|VMI|Valmont Industries  Inc.|Industrials|147.5
+92035510|VAL|Valspar Corporation|Materials|112.06
+92047W10|VVV|Valvoline Inc.|Materials|21.35
+92214X10|VREX|Varex Imaging Corporation|Health Care|29.36
+92230Y10|VDSI|VASCO Data Security International  Inc.|Information Technology|12.1
+91819410|WOOF|VCA Inc.|Health Care|91.9
+92241710|VECO|Veeco Instruments Inc.|Information Technology|18.8
+92335C10|VRA|Vera Bradley  Inc.|Consumer Discretionary|9.14
+92342Y10|PAY|VeriFone Systems  Inc.|Information Technology|19.02
+92343E10|VRSN|VeriSign  Inc.|Information Technology|88.07
+92345Y10|VRSK|Verisk Analytics Inc|Industrials|81.07
+92345410|VRTV|Veritiv Corp|Industrials|27.3
+92532W10|VSM|Versum Materials  Inc.|Information Technology|34.9
+92532F10|VRTX|Vertex Pharmaceuticals Incorporated|Health Care|149.01
+92553P20|VIAB|Viacom Inc. Class B|Consumer Discretionary|33.65
+92552R40|VVI|Viad Corp|Industrials|53.5
+92552V10|VSAT|ViaSat  Inc.|Information Technology|59.4
+92555010|VIAV|Viavi Solutions Inc.|Information Technology|9.87
+92581510|VICR|Vicor Corporation|Industrials|17.15
+92828Q10|VRTS|Virtus Investment Partners  Inc.|Financials|106.15
+92827P10|VRTU|Virtusa Corporation|Information Technology|26.24
+92837710|VSTO|Vista Outdoor Inc|Consumer Discretionary|23.15
+92849E10|VSI|Vitamin Shoppe  Inc.|Consumer Discretionary|5.75
+92916010|VMC|Vulcan Materials Company|Materials|124.9
+38480210|GWW|W.W. Grainger  Inc.|Industrials|174.77
+92956610|WNC|Wabash National Corporation|Industrials|20.3
+93005910|WDR|Waddell & Reed Financial  Inc. Class A|Financials|17.88
+93042710|WAGE|WageWorks  Inc.|Industrials|57.45
+93142710|WBA|Walgreens Boots Alliance Inc|Consumer Staples|81.73
+93148P10|WD|Walker & Dunlop  Inc.|Financials|47.18
+93114210|WMT|Wal-Mart Stores  Inc.|Consumer Staples|75.12
+25468710|DIS|Walt Disney Company|Consumer Discretionary|106.31
+93882410|WAFD|Washington Federal  Inc.|Financials|31.2
+94106L10|WM|Waste Management  Inc.|Industrials|70.73
+94184810|WAT|Waters Corporation|Health Care|180.18
+94262220|WSO|Watsco  Inc.|Industrials|144.1
+94274910|WTS|Watts Water Technologies  Inc. Class A|Industrials|62.65
+92923610|WDFC|WD-40 Company|Consumer Staples|105.45
+94770V10|WBMD|WebMD Health Corp.|Information Technology|66.24
+94789010|WBS|Webster Financial Corporation|Financials|46.51
+94946T10|WCG|WellCare Health Plans  Inc.|Health Care|167.53
+94974610|WFC|Wells Fargo & Company|Financials|52.24
+95058W10|WEN|Wendy's Company|Consumer Discretionary|15.02
+95530610|WST|West Pharmaceutical Services  Inc.|Health Care|96.03
+95709010|WABC|Westamerica Bancorporation|Financials|51.7
+95810210|WDC|Western Digital Corporation|Information Technology|85.22
+92974010|WAB|Westinghouse Air Brake Technologies Corporation|Industrials|70.25
+96145D10|WRK|WestRock Co.|Materials|52.14
+96332010|WHR|Whirlpool Corporation|Consumer Discretionary|182.28
+96683710|WFM|Whole Foods Market  Inc.|Consumer Staples|36.04
+55207470|WLH|William Lyon Homes Class A|Consumer Discretionary|22.77
+96990410|WSM|Williams-Sonoma  Inc.|Consumer Discretionary|50.08
+97415510|WING|Wingstop  Inc.|Consumer Discretionary|34.87
+97463710|WGO|Winnebago Industries  Inc.|Consumer Discretionary|26.1
+97650W10|WTFC|Wintrust Financial Corporation|Financials|68.82
+97717P10|WETF|WisdomTree Investments  Inc.|Financials|8.9
+97809710|WWW|Wolverine World Wide  Inc.|Consumer Discretionary|25.2
+98141910|WRLD|World Acceptance Corporation|Financials|73.15
+98147510|INT|World Fuel Services Corporation|Energy|32.87
+98156Q10|WWE|World Wrestling Entertainment  Inc. Class A|Consumer Discretionary|20.79
+98181110|WOR|Worthington Industries  Inc.|Materials|48.4
+98313410|WYNN|Wynn Resorts  Limited|Consumer Discretionary|135.64
+98391910|XLNX|Xilinx  Inc.|Information Technology|64.76
+G9829410|XL|XL Group Ltd|Financials|41.79
+98377210|XOXO|XO Group Inc.|Information Technology|18.13
+98421B10|XPER|Xperi Corp|Information Technology|25.45
+98433210|YHOO|Yahoo! Inc.|Information Technology|49.65
+98850P10|YUMC|Yum China Holdings  Inc.|Consumer Discretionary|34.64
+98849810|YUM|Yum! Brands  Inc.|Consumer Discretionary|69.16
+98920710|ZBRA|Zebra Technologies Corporation Class A|Information Technology|102.2
+98956P10|ZBH|Zimmer Biomet Holdings  Inc.|Health Care|117.72
+98970110|ZION|Zions Bancorporation|Financials|38.99
+98978V10|ZTS|Zoetis  Inc. Class A|Health Care|59.73
+98981710|ZUMZ|Zumiez Inc.|Consumer Discretionary|11.45
